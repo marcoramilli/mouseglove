@@ -18,3 +18,7 @@ MouseGlobe uses an ARDUINO duemilanove board (ATMEGA 328) to control two main si
 
 Video available here: http://vimeo.com/11372275
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/marcoramilli/mouseglove/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
