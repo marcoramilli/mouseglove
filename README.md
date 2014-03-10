@@ -1,4 +1,4 @@
-Mouse Glove v1.0 
+Mouse Glove v1.0 [![Support Marco via Gittip](http://img.shields.io/gittip/marco.svg)](https://www.gittip.com/marco/)
 =============
 
 ### Original WebSite
